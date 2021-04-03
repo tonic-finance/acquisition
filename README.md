@@ -12,6 +12,8 @@
 
 - [OpenZeppelin Defender account](https://defender.openzeppelin.com/) (Credentials on request)
 
+- [Swirl subgraph](https://thegraph.com/explorer/subgraph/tonic-finance/swirl-frontend-kovan)
+
 - [Netlify account](https://www.netlify.com/) (Credentials on request)
 
 - [Linear account](https://linear.app/) (Credentials on request)
