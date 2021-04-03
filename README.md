@@ -1,4 +1,3 @@
-
 # Acquisition
 
 ## Assets
@@ -24,8 +23,30 @@
 
 ## Tonic 
 
+### Vision & Roadmap
+
+#### Thesis
+Bitcoin has brought us the first form of digital value with provable digital scarcity. Ethererum has brought us the infrastructure to program that value. 
+We now need a decentralized coordination mechanism for accelerating development in deserving areas. 
+
+Our mission is to tackle problems which are currently unsolved or activities which are unduly centralized.
+
+Mass adoption is still far away and most of the crypto value is still too self referential. We need to break through the digital barriers that confine our world and start permeating the legacy world.
+To achieve that, we will start by quickly accruing value in the crypto realm and subsequently expand our reach to other areas.
+The value of a network is derived from the assets controlled by the network and the people who constitute the network.
+
+
+First areas of focus will be:
+
+- DeFi Infrastructure
+Tools and product for institutional adoption. 
+
+- DeFi Retail Adoption
+Interfaces and products to further mass adoption by retail users.
+
+<img width="960" alt="roadmap" src="https://user-images.githubusercontent.com/65851681/113489734-b4eb9580-94bd-11eb-8113-7289264a29ac.png">
+
 - [Swirl Blurb](https://github.com/tonic-finance/swirl-protocol/blob/master/README.md)
-- [Mission and Roadmap]()
 
 ### Tony Snark
 
