@@ -49,7 +49,7 @@ Interfaces and products to further mass adoption by retail users.
 ### Tonic Original Roadmap
 <img width="960" alt="roadmap" src="https://user-images.githubusercontent.com/65851681/113489734-b4eb9580-94bd-11eb-8113-7289264a29ac.png">
 
-- [Swirl Blurb](https://github.com/tonic-finance/swirl-protocol/blob/master/README.md)
+- [Swirl Blurb](swirl.md)
 
 ### Inverse acquisition
 Following the Inverse Finance acquisition, Swirl DCA will be integrated in the Inverse product lines with great synergistic effects, primary focus will be on enhanced UX and customer acquisition with integration with on-ramp providers and other protocols. With the acquisition Tony Snark will join the Inverse DAO on a full time basis and we will help systematise development process and tech stack in order to propel Inverse to the next level. 
